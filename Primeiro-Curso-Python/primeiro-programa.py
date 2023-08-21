@@ -1,0 +1,1 @@
+print("Hello World!") #Me livrando da maldição do Hello World
